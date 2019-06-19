@@ -5,3 +5,4 @@ The User Services Platform is a standardized protocol for managing, monitoring, 
 
 * For build instructions, see the QUICK_START_GUIDE
 
+# usp-agent-stomp
